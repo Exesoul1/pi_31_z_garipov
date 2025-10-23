@@ -1,1 +1,1 @@
-echo 'No code No pain' > README.md
+echo 'experiment with amend' >> README.md
