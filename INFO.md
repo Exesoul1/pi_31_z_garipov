@@ -1,1 +1,1 @@
-echo 'experiment with amend' >> INFO.md
+echo 'new data' >> INFO.md
