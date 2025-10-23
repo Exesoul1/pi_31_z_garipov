@@ -1,1 +1,0 @@
-echo 'Danis' > NEW.md
