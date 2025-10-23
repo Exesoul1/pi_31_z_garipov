@@ -1,1 +1,0 @@
-echo 'Garipov Danis' > PEOPLE.md
