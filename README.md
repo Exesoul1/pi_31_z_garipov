@@ -1,1 +1,1 @@
-echo 'Hello, Friend! How are you?' > README.md
+echo 'No code No pain' > README.md
