@@ -1,1 +1,1 @@
-git is awesome!
+echo 'new line' >> INFO.md
