@@ -1,1 +1,1 @@
-echo 'new text' > INFO.md
+echo 'new line' >> INFO.md

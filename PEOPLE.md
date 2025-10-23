@@ -1,0 +1,1 @@
+echo 'GARIPOV DANIS' > PEOPLE.md
